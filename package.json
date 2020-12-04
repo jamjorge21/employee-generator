@@ -1,0 +1,19 @@
+{
+  "name": "employee-generator",
+  "version": "1.0.0",
+  "description": "emplployee generator",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Martinez",
+  "license": "ISC"
+}
